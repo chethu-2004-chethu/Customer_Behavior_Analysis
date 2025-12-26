@@ -107,7 +107,7 @@ Customer-Behavior-Analytics/
 
 Clone the repository
 
-git clone https://github.com/your-username/customer-behavior-analytics.git
+git clone https://github.com/chethu-2004-chethu/Customer_Behavior_Analysis.git
 
 
 Run the Python ETL script to clean the data
